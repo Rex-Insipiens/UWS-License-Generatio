@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LicenseFile Version="1.0">
+    <Vendor Number="1" Name="Phillips Ultrasound LLC 22100 Bothell-Everett Hwy, Bothell, WA 98021-8431 USA / TomTec Imaging Systems GmbH, 85716 Unterschleissheim"/>
+    <Customer Number="1" Name="Ultrasound Workspace - Server">
+        <Server Identifier="evaluation" NetworkLicensesEnabled="true"/>
+        <Licenses>
+            <License ModuleNumber="101010" ModuleName="TOMTEC-ARENA(TM) Client" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="101015" ModuleName="TTD Server Access License" Version="1" NumberOfLicenses="1" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="101310" ModuleName="TTZ Web-Extension" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="101041" ModuleName="TTD DICOM Modality/Forwarder" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="101042" ModuleName="TTD DICOM PACS Node" Version="1" NumberOfLicenses="1" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="101210" ModuleName="TTD Archiving Option" Version="1" NumberOfLicenses="1" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="101220" ModuleName="TTD Communication Manager" Version="1" NumberOfLicenses="1" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="101061" ModuleName="TTD HL7 ADT (in)" Version="1" NumberOfLicenses="1" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="101062" ModuleName="TTD HL7 ORM (in)" Version="1" NumberOfLicenses="1" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="101084" ModuleName="TTD HL7 ORU (Out)" Version="1" NumberOfLicenses="1" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="101085" ModuleName="TTD HL7 MDM (Out)" Version="1" NumberOfLicenses="1" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102030" ModuleName="IMAGE-COM" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102035" ModuleName="IMAGE-COM 3D" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102510" ModuleName="AutoLV" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102520" ModuleName="AutoIMT" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102530" ModuleName="AutoStrain" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102540" ModuleName="AutoLA" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102550" ModuleName="AutoMMT" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102010" ModuleName="Measurements Echo" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102060" ModuleName="Measurements POC" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102070" ModuleName="Measurements Pediatric Echo" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102080" ModuleName="Measurements Vascular" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102100" ModuleName="Reporting Echocardiography" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102110" ModuleName="Reporting Vascular" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102120" ModuleName="Reporting Generic" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102130" ModuleName="Reporting Pediatric" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102140" ModuleName="Reporting Fetal" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102150" ModuleName="Reporting POC" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102090" ModuleName="QS Light" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102091" ModuleName="QS Reporting" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="102040" ModuleName="Echo-Com(C)" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="103100" ModuleName="4D LV-ANALYSIS" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="103110" ModuleName="3D AUTO MV" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="103200" ModuleName="4D CARDIO-VIEW" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="103080" ModuleName="3D AUTO RV" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="103120" ModuleName="4D SONO-SCAN" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="103310" ModuleName="3D AUTO TV" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="103300" ModuleName="3D AUTO CFQ" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="103320" ModuleName="2D Auto LV (SWM)" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="103230" ModuleName="AutoStrain LV" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="103240" ModuleName="AutoStrain LA" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="103250" ModuleName="AutoStrain RV" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="103280" ModuleName="AutoStrain SAX" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="103290" ModuleName="TrueVue" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="105001" ModuleName="QLab 3DQ" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="105002" ModuleName="QLab 3DQA" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+            <License ModuleNumber="105004" ModuleName="DHM" Version="1" NumberOfLicenses="5" ExpirationDate="2025-12-31"/>
+        </Licenses>
+    </Customer>
+    <Checksum>
+        3Uqpa+MTf1F2HzvH62kgC+F/NVs=
+    </Checksum>
+</LicenseFile>
